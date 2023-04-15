@@ -1,0 +1,34 @@
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("./Asset/homeAsset/HeroBG.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: calc(100vh - 58px);
+}
+@media (max-width: 770px){
+    .banner{
+        height: 130vh;
+    }
+}
+
+/* PARALAX 1 */
+.par1-1{
+    width: 150px; height: 150px; 
+    object-fit: cover; 
+    object-position: 0px -450px;
+}
+.par1-2{
+    width: 150px; height: 150px; 
+    object-fit: cover; 
+    object-position: 0px 0px;
+}
+.par1-3{
+    width: 150px; height: 150px; 
+    object-fit: cover; 
+    object-position: 0px -150px;
+}
+.par1-4{
+    width: 150px; height: 150px; 
+    object-fit: cover; 
+    object-position: 0px -300px;
+}

@@ -1,0 +1,2392 @@
+1: 2016 Toyota CALYA G 1.2 75.833 km | Automatic Rp 104.000.000 Bensin 7
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Sep 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+75.833 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Sep 2021
+
+2: 2021 Toyota RUSH S TRD 1.5 14.832 km | Automatic Rp 252.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jan 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+14.832 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2024
+Masa Berlaku Stnk
+Feb 2022
+
+3: 2019 Toyota YARIS S TRD 1.5 28.264 km | Automatic Rp 222.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Mei 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+28.264 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Apr 2022
+Masa Berlaku Stnk
+Mei 2022
+
+4:2021 Toyota CALYA G 1.2
+11.888 km | Manual
+Rp 138.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+11.888 km
+Kunci Cadangan
+Ya
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+5:2014 Honda MOBILIO E 1.5
+83.528 km | Automatic
+Rp 126.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Apr 2014
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+83.528 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Apr 2022
+
+6:2021 Toyota CALYA G 1.2
+5.384 km | Manual
+Rp 133.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mei 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+5.384 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mei 2022
+
+7: 2015 Daihatsu XENIA X STD 1.3
+41.140 km | Manual
+Rp 106.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2015
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+41.140 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Apr 2022
+
+8 :2021 Toyota RUSH G 1.5
+7.106 km | Automatic
+Rp 235.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jul 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+7.106 km
+Kunci Cadangan
+Ya
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jul 2022
+
+9:2017 Toyota YARIS S TRD 1.5
+46.636 km | Automatic
+Rp 187.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Des 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+46.636 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Des 2021
+
+10:2021 Suzuki XL7 ALPHA 1.5
+4.152 km | Manual
+Rp 222.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Cokelat
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+4.152 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+11: 2018 Daihatsu TERIOS R 1.5
+58.389 km | Manual
+Rp 195.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jul 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+58.389 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jul 2021
+
+12 : 2021 Toyota FORTUNER VRZ 4X2 2.4
+3.310 km | Automatic
+Rp 545.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Apr 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+3.310 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mar 2024
+Masa Berlaku Stnk
+Apr 2022
+
+13:2018 Honda JAZZ RS 1.5
+30.854 km | Automatic
+Rp 238.900.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Mei 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+30.854 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jun 2022
+
+14:2020 Suzuki BALENO HATCHBACK 1.4
+12.432 km | Automatic
+Rp 201.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jan 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+12.432 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2024
+Masa Berlaku Stnk
+Feb 2022
+
+15:2018 2018 Toyota VOXY 2.0
+37.020 km | Automatic
+Rp 407.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Agt 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+37.020 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Agt 2021
+
+16:2020 Honda HR-V E 1.5
+14.795 km | Automatic
+Rp 313.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Nov 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+14.795 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Des 2023
+Masa Berlaku Stnk
+Des 2021
+
+17:2020 Mitsubishi XPANDER CROSS PREMIUM 1.5
+26.412 km | Automatic
+Rp 254.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+26.412 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2023
+Masa Berlaku Stnk
+Feb 2021
+
+18:2020 Honda BR-V PRESTIGE 1.5
+20.642 km | Automatic
+Rp 215.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Agt 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+20.642 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Agt 2023
+Masa Berlaku Stnk
+Agt 2021
+
+19:2017 Suzuki KARIMUN GS 1.0
+31.529 km | Manual
+Rp 88.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jun 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+31.529 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jun 2021
+
+20:2019 Nissan LIVINA VE 1.5
+39.968 km | Automatic
+Rp 212.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+39.968 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Agt 2023
+Masa Berlaku Stnk
+Mar 2022
+
+21:2018 Toyota RUSH S TRD 1.5
+32.953 km | Automatic
+Rp 222.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jan 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+32.953 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jan 2022
+
+22:2019 Toyota RUSH G 1.5
+56.388 km | Automatic
+Rp 207.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jul 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+56.388 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mei 2022
+Masa Berlaku Stnk
+Jun 2022
+
+23:2018 Toyota VOXY 2.0
+18.996 km | Automatic
+Rp 411.000.000
+Rp 7.432.250/bln
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+18.996 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2022
+Masa Berlaku Stnk
+Feb 2022
+
+24:2019 Daihatsu XENIA R STD 1.3
+14.651 km | Automatic
+Rp 182.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+14.651 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mar 2022
+Masa Berlaku Stnk
+Mei 2021
+
+25:2019 Honda HR-V SE 1.5
+37.048 km | Automatic
+Rp 306.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Mei 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+37.048 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mei 2022
+Masa Berlaku Stnk
+Mei 2020
+
+26:2018 Suzuki BALENO HATCHBACK 1.5 42.405 km | Manual Rp 142.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Biru
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Mei 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+42.405 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Apr 2021
+
+27:2017 Toyota CALYA E 1.2
+74.904 km | Manual
+Rp 90.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+74.904 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2021
+
+28:2018 Mitsubishi XPANDER ULTIMATE 1.5
+51.636 km | Automatic
+Rp 212.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2018
+Tipe Registrasi
+Perusahaan
+Jarak Tempuh Saat Ini
+51.636 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2020
+
+29:2019 Mitsubishi PAJERO SPORT DAKAR 4X2 2.4
+34.424 km | Automatic
+Rp 491.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Des 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+34.424 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jul 2022
+Masa Berlaku Stnk
+Apr 2022
+
+30:2019 Mitsubishi XPANDER ULTIMATE 1.5
+31.984 km | Automatic
+Rp 228.500.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+31.984 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2023
+Masa Berlaku Stnk
+Feb 2021
+
+31:2018 Suzuki ERTIGA GL 1.4
+16.652 km | Manual
+Rp 146.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mei 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+16.652 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mei 2022
+
+32: 2018 Suzuki IGNIS GL MT 1.2
+24.445 km | Manual
+Rp 119.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jul 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+24.445 km
+Kunci Cadangan
+Ya
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jul 2019
+
+33:2018 Daihatsu TERIOS R 1.5
+42.846 km | Automatic
+Rp 194.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Nov 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+42.846 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Nov 2020
+
+34: 2019 Suzuki ERTIGA SPORT GT 1.5
+19.477 km | Manual
+Rp 195.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Nov 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+19.477 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Des 2021
+
+35:2019 Suzuki ERTIGA SPORT GT 1.5
+12.458 km | Manual
+Rp 199.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jan 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+12.458 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2022
+Masa Berlaku Stnk
+Jan 2022
+
+36: 2018 Toyota YARIS S LTD 1.5
+38.768 km | Automatic
+Rp 204.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Okt 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+38.768 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Okt 2021
+
+37:2017 Honda CR-V 2.0
+59.573 km | Automatic
+Rp 322.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Nov 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+59.573 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Nov 2021
+
+38:2017 Honda BRIO SATYA E 1.2
+32.450 km | Automatic
+Rp 131.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Biru
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jan 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+32.450 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2022
+
+39:2017 Honda MOBILIO RS 1.5
+31.478 km | Automatic
+Rp 179.500.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Oranye
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Sep 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+31.478 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Sep 2022
+
+40:2018 Honda BR-V E PRESTIGE 1.5
+16.441 km | Automatic
+Rp 204.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jul 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+16.441 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jul 2022
+
+41:2017 Mitsubishi OUTLANDER SPORT PX 2.0
+64.825 km | Automatic
+Rp 231.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Oranye
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jun 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+64.825 km
+Kunci Cadangan
+Ya
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jun 2021
+
+42:2017 Toyota AGYA G TRD 1.2
+56.617 km | Automatic
+Rp 111.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Sep 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+56.617 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Sep 2022
+
+43:2017 Nissan SERENA HIGHWAY STAR 2.0
+76.090 km | Automatic
+Rp 218.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+76.090 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2022
+
+44:2017 Honda MOBILIO RS 1.5
+48.773 km | Manual
+Rp 154.500.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2018
+Tipe Registrasi
+Perusahaan
+Jarak Tempuh Saat Ini
+48.773 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mei 2022
+
+45:2017 Honda HR-V E 1.5
+60.957 km | Automatic
+Rp 218.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Feb 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+60.957 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2019
+
+46:2017 Honda BR-V E PRESTIGE 1.5
+49.035 km | Automatic
+Rp 187.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Agt 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+49.035 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jul 2021
+
+47:2016 Daihatsu TERIOS CUSTOM 1.5
+82.164 km | Automatic
+Rp 157.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mei 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+82.164 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jun 2022
+
+48:2016 Honda BRIO RS 1.2
+72.232 km | Manual
+Rp 118.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Okt 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+72.232 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Okt 2021
+
+49:2015 Daihatsu XENIA R SPORTY 1.3
+76.769 km | Manual
+Rp 127.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Sep 2015
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+76.769 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Okt 2021
+
+50:2021 Toyota RUSH S TRD 1.5
+14.832 km | Automatic
+Rp 252.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jan 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+14.832 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2024
+Masa Berlaku Stnk
+Feb 2022
+
+51:2021 Toyota CALYA G 1.2
+11.888 km | Manual
+Rp 138.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+11.888 km
+Kunci Cadangan
+Ya
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+52:2021 Toyota CALYA G 1.2
+5.384 km | Manual
+Rp 133.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mei 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+5.384 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mei 2022
+
+53:2021 Toyota RUSH G 1.5
+7.106 km | Automatic
+Rp 235.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jul 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+7.106 km
+Kunci Cadangan
+Ya
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jul 2022
+
+54:2021 Suzuki XL7 ALPHA 1.5
+4.152 km | Manual
+Rp 222.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Cokelat
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+4.152 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+55:2021 Toyota FORTUNER VRZ 4X2 2.4
+3.310 km | Automatic
+Rp 545.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Apr 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+3.310 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mar 2024
+Masa Berlaku Stnk
+Apr 2022
+
+56:2020 Honda HR-V E 1.5
+13.538 km | Automatic
+Rp 312.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jul 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+13.538 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jul 2023
+Masa Berlaku Stnk
+Jul 2021
+
+57:2020 Toyota YARIS S TRD 1.5
+16.744 km | Automatic
+Rp 239.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Feb 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+16.744 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Feb 2023
+Masa Berlaku Stnk
+Mar 2021
+
+58:2019 Daihatsu TERIOS X DLX 1.5
+47.432 km | Automatic
+Rp 193.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Apr 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+47.432 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Apr 2022
+Masa Berlaku Stnk
+Apr 2022
+
+59:2020 Toyota FORTUNER VRZ 4X2 2.4
+18.030 km | Automatic
+Rp 472.000.000
+Jenis Bahan Bakar
+Diesel
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Nov 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+18.030 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Nov 2023
+Masa Berlaku Stnk
+Nov 2021
+
+60:2020 Honda BR-V E 1.5
+10.358 km | Automatic
+Rp 237.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Des 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+10.358 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Nov 2023
+Masa Berlaku Stnk
+Des 2021
+
+61:2019 Daihatsu AYLA R 1.2
+31.006 km | Automatic
+Rp 120.500.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Oranye
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jan 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+31.006 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jan 2022
+
+62 : 2019 Suzuki IGNIS GL 1.2
+24.900 km | Automatic
+Rp 137.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Feb 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+24.900 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2021
+
+63:2019 Toyota YARIS S TRD 1.5
+30.529 km | Automatic
+Rp 238.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Lainnya
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Sep 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+30.529 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Okt 2022
+
+64:2019 Toyota INNOVA V DIESEL 2.5
+43.036 km | Automatic
+Rp 369.000.000
+Jenis Bahan Bakar
+Diesel
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jul 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+43.036 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mei 2022
+Masa Berlaku Stnk
+Mei 2022
+
+65:2019 Toyota AVANZA G 1.3
+19.854 km | Manual
+Rp 176.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Nov 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+19.854 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Nov 2022
+Masa Berlaku Stnk
+Nov 2021
+
+66:2020 Daihatsu SIGRA R STD 1.2
+2.696 km | Automatic
+Rp 138.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Des 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+2.696 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Des 2020
+
+67:2020 Daihatsu XENIA X 1.3
+8.290 km | Manual
+Rp 155.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+8.290 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2021
+
+68:2015 Mazda 2 R SKYACTIV 1.5
+81.258 km | Automatic
+Rp 158.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Okt 2015
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+81.258 km
+Kunci Cadangan
+Ya
+Buku Servis
+Tidak
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Nov 2021
+
+69:2020 Mitsubishi XPANDER CROSS PREMIUM 1.5
+28.639 km | Automatic
+Rp 244.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Apr 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+28.639 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Apr 2022
+
+70:2018 Mitsubishi XPANDER ULTIMATE 1.5
+56.019 km | Automatic
+Rp 222.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+56.019 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+71:2018 Mitsubishi XPANDER ULTIMATE 1.5
+40.999 km | Automatic
+Rp 218.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jan 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+40.999 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jan 2022
+
+72:2018 Mitsubishi XPANDER ULTIMATE 1.5
+61.945 km | Automatic
+Rp 222.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Sep 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+61.945 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Agt 2021
+
+73:2019 Mitsubishi PAJERO SPORT DAKAR 4X2 2.4
+34.424 km | Automatic
+Rp 491.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Des 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+34.424 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jul 2022
+Masa Berlaku Stnk
+Apr 2022
+
+74:2018 Mitsubishi XPANDER ULTIMATE 1.5
+44.319 km | Automatic
+Rp 211.000.000 
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+44.319 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2022
+
+75: 2018 Mitsubishi OUTLANDER PX 2.0
+45.244 km | Automatic
+Rp 270.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Des 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+45.244 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Des 2021
+
+76:2019 Nissan LIVINA VE 1.5
+39.968 km | Automatic
+Rp 212.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mar 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+39.968 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Agt 2023
+Masa Berlaku Stnk
+Mar 2022
+
+77:2017 Nissan GRAND LIVINA XV 1.5
+67.293 km | Automatic
+Rp 140.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Feb 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+67.293 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2022
+
+78:2013 Nissan GRAND LIVINA X-GEAR 1.8
+59.146 km | Automatic
+Rp 108.500.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Agt 2014
+Tipe Registrasi
+Perusahaan
+Jarak Tempuh Saat Ini
+59.146 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Agt 2021
+
+79:2019 Nissan LIVINA EL 1.5
+27.891 km | Manual
+Rp 185.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Okt 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+27.891 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Okt 2022
+Masa Berlaku Stnk
+Okt 2021
+
+80:2016 Nissan X-TRAIL 2.5
+79.270 km | Automatic
+Rp 235.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Mei 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+79.270 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mei 2022
+
+81:2019 Nissan GRAND LIVINA VE 1.5
+32.167 km | Automatic
+Rp 205.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Oranye
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Des 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+32.167 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Des 2022
+Masa Berlaku Stnk
+Des 2021
+
+82:2016 Nissan MARCH XS 1.2
+68.879 km | Automatic
+Rp 114.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Nov 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+68.879 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Nov 2021
+
+83:2019 Nissan GRAND LIVINA VL 1.5
+33.484 km | Automatic
+Rp 219.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jul 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+33.484 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mei 2022
+Masa Berlaku Stnk
+Jul 2021
+
+84:2020 Suzuki BALENO HATCHBACK 1.4
+12.432 km | Automatic
+Rp 201.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jan 2021
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+12.432 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Jan 2024
+Masa Berlaku Stnk
+Feb 2022
+
+85:2017 Suzuki IGNIS GX 1.2
+34.371 km | Automatic
+Rp 127.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Biru
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Sep 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+34.371 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Okt 2021
+
+86:2015 Suzuki KARIMUN GS 1.0
+40.041 km | Manual
+Rp 84.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Feb 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+40.041 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Feb 2022
+
+87:2019 Suzuki ERTIGA GL 1.5
+34.228 km | Manual
+Rp 167.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Silver
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Jun 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+34.228 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mar 2023
+Masa Berlaku Stnk
+Feb 2022
+
+88 : 2020 Suzuki ERTIGA GL 1.5
+34.411 km | Manual
+Rp 183.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+7&above
+Tanggal Registrasi
+Sep 2020
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+34.411 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Sep 2023
+Masa Berlaku Stnk
+Sep 2021
+
+89:2019 Wuling ALMAZ LT LUX 1.5
+22.735 km | Automatic
+Rp 246.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Mar 2019
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+22.735 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Kadaluwarsa Garansi Pabrik
+Mar 2022
+Masa Berlaku Stnk
+Mar 2022
+
+90:2018 Honda CIVIC TC E 1.5
+6.508 km | Automatic
+Rp 392.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Jun 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+6.508 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jun 2022
+
+91:2018 Honda CIVIC TURBO E 1.5
+34.736 km | Automatic
+Rp 395.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Sep 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+34.736 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Agt 2021
+
+92:2018 Honda JAZZ RS 1.5
+45.004 km | Automatic
+Rp 242.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Mei 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+45.004 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mei 2022
+
+93:2016 Honda JAZZ RS 1.5
+88.527 km | Automatic
+Rp 201.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Mar 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+88.527 km
+Kunci Cadangan
+Tidak
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+94:2018 Honda JAZZ RS 1.5
+34.968 km | Automatic
+Rp 242.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Oranye
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Nov 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+34.968 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Nov 2021
+
+95:2018 Honda JAZZ RS 1.5
+23.122 km | Automatic
+Rp 251.500.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Abu-abu
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Apr 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+23.122 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Apr 2022
+
+96:2014 Honda JAZZ RS 1.5
+56.754 km | Automatic
+Rp 185.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Agt 2014
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+56.754 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Sep 2021
+
+97:2018 Honda JAZZ RS 1.5
+30.130 km | Automatic
+Rp 247.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Hitam
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Mar 2018
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+30.130 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+98:2015 Honda JAZZ RS 1.5
+92.189 km | Automatic
+Rp 192.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Putih
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jan 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+92.189 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jan 2022
+
+99:2017 Honda JAZZ RS 1.5
+54.075 km | Automatic
+Rp 211.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Merah
+Jumlah Tempat Duduk
+4
+Tanggal Registrasi
+Mar 2017
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+54.075 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Mar 2022
+
+100:2016 Daihatsu SIRION D FMC 1.3
+58.078 km | Manual
+Rp 100.000.000
+Jenis Bahan Bakar
+Bensin
+Warna
+Biru
+Jumlah Tempat Duduk
+5
+Tanggal Registrasi
+Jul 2016
+Tipe Registrasi
+Perorangan
+Jarak Tempuh Saat Ini
+58.078 km
+Kunci Cadangan
+Ya
+Buku Servis
+Ya
+Garansi Pabrik
+Tidak
+Masa Berlaku Stnk
+Jul 2021
